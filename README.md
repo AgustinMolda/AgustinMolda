@@ -29,14 +29,11 @@
    border: 0;margin: 2em 0;
    height: 2px;">
    <div>
-           <img src="https://github.com/AgustinMolda/PersonalPage/img/34430871_page-0001.jpg"
+           <img src="https://github.com/AgustinMolda/PersonalPage/blob/main/img/Moldavsky%20Agust%C3%ADn%2034430871_page-0001.jpg"
                style="width:30em; " />
-               <img src="https://raw.githubusercontent.com/LionelStaricoff/personalWeb/main/img/spring_codoacodo.jpg"
+               <img src="https://github.com/AgustinMolda/PersonalPage/blob/main/img/Moldavsky%20Rodoni%20Agustin%20German-codoAcodo_page-0001.jpg"
                style="width:30em; "/>
-               <img width="30px"; src="https://raw.githubusercontent.com/LionelStaricoff/personalWeb/main/img/titulo_spring_alura.jpg"
-               style="width:30em; "/>
-           <img src="https://raw.githubusercontent.com/LionelStaricoff/personalWeb/main/img/scrum_alura.jpg"
-               style="width:30em; "/>          
+                  
    </div>
         <hr style=" background: linear-gradient(to right, red, green, blue);
         border: 0;margin: 2em 0;
