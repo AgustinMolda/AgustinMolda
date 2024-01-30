@@ -1,16 +1,16 @@
 <div align="center">
    <h1 align: "center;"> Hola, soy Agustín Moldavsky. </h1> 
-   <img style="width:10em; margin: 1em;" src="https://raw.githubusercontent.com/LionelStaricoff/personalWeb/main/img/perfil.jpg">
+   <img style="width:10em; margin: 1em;" src="">
    <h3 style="text-align: center"> Un apasionado desarrollador full stack Java. Me
             especializo en la creación de
             proyectos innovadores utilizando las últimas tecnologías y prácticas adaptativas. Es un placer conocerte y
             compartir mi trabajo contigo</h3>
        <div style="text-align:center; ">
-                <a href="https://lioncode.netlify.app/" target="_blank"><img style="width:10em;"
+                <a href="https://agustinmolda.github.io/PersonalPage/" target="_blank"><img style="width:10em;"
                         src="https://raw.githubusercontent.com/LionelStaricoff/personalWeb/main/img/responsive-design.png">&nbsp &nbsp &nbsp </a>
                     <a href="https://www.youtube.com/channel/UCI2D8NvLj-AChUOK1TlPtgg" target="_blank"><img style="width: 10em; margin: 2em 1em;"
                             src="https://raw.githubusercontent.com/LionelStaricoff/personalWeb/main/img/youtube.png">&nbsp &nbsp &nbsp</a>
-                            <a href="https://www.linkedin.com/in/lionel-staricoff/" target="_blank"><img style="width: 10em; margin: 2em 1em;"
+                            <a href="https://www.linkedin.com/in/agust%C3%ADn-moldavsky-rodoni-b8112b163/?originalSubdomain=ar" target="_blank"><img style="width: 10em; margin: 2em 1em;"
                                 src="https://raw.githubusercontent.com/LionelStaricoff/personalWeb/main/img/linkedin.png"></a>
             </div>
             <hr style=" background: linear-gradient(to right, red, green, blue);
