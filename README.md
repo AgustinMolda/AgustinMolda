@@ -1,6 +1,6 @@
 <div align="center">
    <h1 align: "center;"> Hola, soy Agustín Moldavsky. </h1> 
-   <img style="width:10em; margin: 1em;" src="">
+   <img style="width:10em; margin: 1em;" src="https://raw.githubusercontent.com/LionelStaricoff/personalWeb/main/img/perfil.jpg">
    <h3 style="text-align: center"> Un apasionado desarrollador full stack Java. Me
             especializo en la creación de
             proyectos innovadores utilizando las últimas tecnologías y prácticas adaptativas. Es un placer conocerte y
